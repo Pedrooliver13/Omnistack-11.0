@@ -23,7 +23,7 @@ export default function Incident() {
     const data = {
       title,
       description,
-      value,
+      value
     };
 
     try {

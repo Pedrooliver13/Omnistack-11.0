@@ -37,7 +37,7 @@ export default function Profile() {
         }
       })
 
-      setIncidents(incidents.filter(incident => incident.id !== id));
+      setIncidents(incidents.filter(incident => incident.id !== id)); // caso o incident id seja diferente
 
     } catch (err) {
       alert("Erro ao deletar, teste novamente.");
