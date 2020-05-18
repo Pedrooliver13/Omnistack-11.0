@@ -1,6 +1,6 @@
-<p align="center">
-   ![logo-be-the-hero](https://user-images.githubusercontent.com/56042296/82165748-a20fa880-988c-11ea-874d-7d99f9880952.png)
-</p>
+<h3 align="center">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSYy_HDUnMgvE4JyD3LSbIRq4qkkHAd5UddBwwiQCZ9BpREiKA&usqp=CAU">
+ </h3>
 <h4 align="center">
   🚀 Semana OmniStack 11.0
 </h4>
@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="https://miro.medium.com/max/596/1*H0tVCIc-h8BKtnnmR6eVSw.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
