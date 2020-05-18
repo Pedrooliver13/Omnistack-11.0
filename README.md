@@ -1,6 +1,5 @@
-<h1 align="center">
+
    ![logo-be-the-hero](https://user-images.githubusercontent.com/56042296/82165748-a20fa880-988c-11ea-874d-7d99f9880952.png)
-</h1>
 
 <h4 align="center">
   🚀 Semana OmniStack 11.0
