@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+   ![logo-be-the-hero](https://user-images.githubusercontent.com/56042296/82165748-a20fa880-988c-11ea-874d-7d99f9880952.png)
 </h1>
 
 <h4 align="center">
