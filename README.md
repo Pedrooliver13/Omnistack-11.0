@@ -29,7 +29,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/) (esté em outro repositório)
+- [Node.js](https://nodejs.org/en/) (está em outro repositório)
 - [React](https://reactjs.org)
 - [Expo](https://expo.io/)
 
